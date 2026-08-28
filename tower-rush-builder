@@ -1,0 +1,299 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Privacy Policy - Tower Rush Builder</title>
+
+    <meta name="description" content="Privacy Policy for Tower Rush Builder mobile game.">
+
+    <style>
+        * {
+            box-sizing: border-box;
+        }
+
+        body {
+            margin: 0;
+            font-family: Arial, Helvetica, sans-serif;
+            background: #f4f7fb;
+            color: #1f2937;
+            line-height: 1.7;
+        }
+
+        .header {
+            background: linear-gradient(135deg, #2563eb, #7c3aed);
+            color: white;
+            padding: 50px 20px;
+            text-align: center;
+        }
+
+        .header h1 {
+            margin: 0;
+            font-size: 36px;
+        }
+
+        .header p {
+            margin: 10px 0 0;
+            font-size: 16px;
+            opacity: 0.95;
+        }
+
+        .container {
+            max-width: 900px;
+            margin: 35px auto;
+            padding: 0 20px;
+        }
+
+        .card {
+            background: white;
+            padding: 35px;
+            border-radius: 18px;
+            box-shadow: 0 5px 25px rgba(0, 0, 0, 0.08);
+        }
+
+        h2 {
+            color: #2563eb;
+            margin-top: 32px;
+        }
+
+        h2:first-of-type {
+            margin-top: 0;
+        }
+
+        p {
+            margin: 12px 0;
+        }
+
+        ul {
+            padding-left: 25px;
+        }
+
+        li {
+            margin-bottom: 8px;
+        }
+
+        a {
+            color: #2563eb;
+            text-decoration: none;
+        }
+
+        a:hover {
+            text-decoration: underline;
+        }
+
+        .updated {
+            color: #64748b;
+            font-size: 14px;
+        }
+
+        .contact-box {
+            background: #eff6ff;
+            padding: 20px;
+            border-radius: 12px;
+            margin-top: 15px;
+        }
+
+        footer {
+            text-align: center;
+            padding: 30px 20px;
+            color: #64748b;
+            font-size: 14px;
+        }
+
+        @media (max-width: 600px) {
+            .header h1 {
+                font-size: 30px;
+            }
+
+            .card {
+                padding: 25px 20px;
+            }
+        }
+    </style>
+</head>
+
+<body>
+
+<header class="header">
+    <h1>Tower Rush Builder</h1>
+    <p>Privacy Policy</p>
+</header>
+
+<main class="container">
+
+    <div class="card">
+
+        <p class="updated">
+            <strong>Effective Date:</strong> August 29, 2026
+        </p>
+
+        <p>
+            This Privacy Policy explains how Tower Rush Builder
+            handles information when you use the Tower Rush Builder
+            mobile game.
+        </p>
+
+        <h2>1. About Tower Rush Builder</h2>
+
+        <p>
+            Tower Rush Builder is a casual mobile game created for
+            entertainment. Users can play the game, build towers,
+            earn virtual in-game rewards, and interact with the
+            game's features.
+        </p>
+
+        <h2>2. Information We Collect</h2>
+
+        <p>
+            Tower Rush Builder does not directly ask users to provide
+            sensitive personal information such as passwords,
+            government identification numbers, or financial account
+            information.
+        </p>
+
+        <p>
+            Depending on the features and services used by the game,
+            certain technical information may be processed by
+            third-party services used by the application.
+        </p>
+
+        <h2>3. Advertising</h2>
+
+        <p>
+            Tower Rush Builder uses Google AdMob to display
+            advertisements.
+        </p>
+
+        <p>
+            Google AdMob may collect and process information such as
+            advertising identifiers, device information, approximate
+            location, and information about interactions with
+            advertisements, subject to Google's applicable policies.
+        </p>
+
+        <p>
+            The game may display banner advertisements and
+            interstitial advertisements.
+        </p>
+
+        <h2>4. Google AdMob</h2>
+
+        <p>
+            Google AdMob is a third-party advertising service
+            provided by Google. AdMob may use information collected
+            through its advertising services to provide, measure,
+            personalize, and improve advertisements, subject to
+            applicable settings and policies.
+        </p>
+
+        <p>
+            For more information about Google's privacy practices,
+            please visit:
+        </p>
+
+        <p>
+            <a href="https://policies.google.com/privacy"
+               target="_blank"
+               rel="noopener noreferrer">
+                Google Privacy Policy
+            </a>
+        </p>
+
+        <h2>5. Advertising Identifier</h2>
+
+        <p>
+            The game may use the Android Advertising ID through
+            Google advertising services. The availability and use of
+            advertising identifiers may depend on the user's device
+            settings and applicable platform policies.
+        </p>
+
+        <h2>6. Game Data</h2>
+
+        <p>
+            Tower Rush Builder may store game-related information
+            such as scores, settings, gameplay progress, and virtual
+            coins, depending on the features implemented in the
+            application.
+        </p>
+
+        <p>
+            Virtual coins and other virtual rewards used in the game
+            are virtual game items. They have no real-world monetary
+            value and are not intended to represent real currency.
+        </p>
+
+        <h2>7. Third-Party Services</h2>
+
+        <p>
+            The application may use third-party services, including
+            advertising services, to support app functionality and
+            display advertisements.
+        </p>
+
+        <p>
+            These third-party services may process information in
+            accordance with their own privacy policies.
+        </p>
+
+        <h2>8. Data Security</h2>
+
+        <p>
+            We take reasonable measures to protect information
+            handled by the application. However, no method of
+            electronic storage or transmission is completely secure,
+            and absolute security cannot be guaranteed.
+        </p>
+
+        <h2>9. Children's Privacy</h2>
+
+        <p>
+            Tower Rush Builder does not knowingly request sensitive
+            personal information from children.
+        </p>
+
+        <p>
+            If you believe that a child has provided personal
+            information through the application, please contact us
+            using the email address below.
+        </p>
+
+        <h2>10. Changes to This Privacy Policy</h2>
+
+        <p>
+            We may update this Privacy Policy from time to time.
+            When changes are made, the updated version will be
+            published on this page and the effective date will be
+            updated.
+        </p>
+
+        <h2>11. Contact Us</h2>
+
+        <div class="contact-box">
+
+            <p>
+                If you have questions, concerns, or requests regarding
+                this Privacy Policy or Tower Rush Builder, please
+                contact us at:
+            </p>
+
+            <p>
+                <strong>Email:</strong>
+                <a href="mailto:ponalkhan33@gmail.com">
+                    ponalkhan33@gmail.com
+                </a>
+            </p>
+
+        </div>
+
+    </div>
+
+</main>
+
+<footer>
+    © 2026 Tower Rush Builder. All rights reserved.
+</footer>
+
+</body>
+</html>
